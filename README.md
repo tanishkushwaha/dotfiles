@@ -1,5 +1,5 @@
 # dotfiles
-Linux Config Files
+Linux ricing config files
 
 ## [1](1/)
 - **Distro:** Arch Linux

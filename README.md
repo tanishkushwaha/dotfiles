@@ -5,6 +5,6 @@ Linux Config Files
 ### **Distro:** Arch Linux
 ### **WM:** i3wm
 ### **Status Bar:** Polybar
-### **App Launcher:** Rofi
+++ **App Launcher:** Rofi
 
 ![screenshot](https://github.com/tanishkushwaha/dotfiles/blob/master/1/screenshots/1.png)

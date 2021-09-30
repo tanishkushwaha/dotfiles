@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/tanish/Pictures/Anime/2.jpg"
+let background = "#0c0b19"
+let foreground = "#ceaca6"
+let cursor     = "#ceaca6"
+
+" Colors
+let color0  = "#0c0b19"
+let color1  = "#4E3355"
+let color2  = "#6B3B54"
+let color3  = "#4B3464"
+let color4  = "#704456"
+let color5  = "#DF683A"
+let color6  = "#994B4C"
+let color7  = "#ceaca6"
+let color8  = "#907874"
+let color9  = "#4E3355"
+let color10 = "#6B3B54"
+let color11 = "#4B3464"
+let color12 = "#704456"
+let color13 = "#DF683A"
+let color14 = "#994B4C"
+let color15 = "#ceaca6"

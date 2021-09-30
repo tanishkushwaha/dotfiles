@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tanish/Pictures/5.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#050A17",
+        "foreground": "#d5b7be",
+        "cursor": "#d5b7be"
+    },
+    "colors": {
+        "color0": "#050A17",
+        "color1": "#A15E71",
+        "color2": "#8D667A",
+        "color3": "#D16C78",
+        "color4": "#F2887A",
+        "color5": "#A87686",
+        "color6": "#D17986",
+        "color7": "#d5b7be",
+        "color8": "#958085",
+        "color9": "#A15E71",
+        "color10": "#8D667A",
+        "color11": "#D16C78",
+        "color12": "#F2887A",
+        "color13": "#A87686",
+        "color14": "#D17986",
+        "color15": "#d5b7be"
+    }
+}

@@ -2,8 +2,8 @@
 Linux Config Files
 
 ## [1](1/)
-##### **Distro:** Arch Linux
-##### **WM:** i3wm
+- **Distro:** Arch Linux
+- **WM:** i3wm
 ##### **Status Bar:** Polybar
 ##### **App Launcher:** Rofi
 

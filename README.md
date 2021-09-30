@@ -1,5 +1,4 @@
-# dotfiles
-Linux ricing config files
+# Linux Ricing Config Files
 
 ## [1](1/)
 - **Distro:** Arch Linux

@@ -6,5 +6,6 @@ Linux Config Files
 - **WM:** i3wm
 - **Status Bar:** Polybar
 - **App Launcher:** Rofi
+- **Lockscreen:** i3lock-color
 
 ![screenshot](https://github.com/tanishkushwaha/dotfiles/blob/master/1/screenshots/1.png)

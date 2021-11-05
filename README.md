@@ -7,4 +7,4 @@
 - **App Launcher:** Rofi
 - **Lockscreen:** i3lock-color
 
-![screenshot](/screenshots/1.png)
+![screenshot](1/screenshots/1.png)

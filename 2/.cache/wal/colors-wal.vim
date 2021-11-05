@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/tanish/Pictures/837258.png"
+let background = "#2b2440"
+let foreground = "#f6cab8"
+let cursor     = "#f6cab8"
+
+" Colors
+let color0  = "#2b2440"
+let color1  = "#FE5D78"
+let color2  = "#EC897E"
+let color3  = "#5B6089"
+let color4  = "#8C4F80"
+let color5  = "#359AA9"
+let color6  = "#11F3DC"
+let color7  = "#f6cab8"
+let color8  = "#ac8d80"
+let color9  = "#FE5D78"
+let color10 = "#EC897E"
+let color11 = "#5B6089"
+let color12 = "#8C4F80"
+let color13 = "#359AA9"
+let color14 = "#11F3DC"
+let color15 = "#f6cab8"

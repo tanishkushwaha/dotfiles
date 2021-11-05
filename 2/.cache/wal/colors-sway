@@ -1,0 +1,21 @@
+set $wallpaper /home/tanish/Pictures/837258.png
+
+set $background #2b2440
+set $foreground #f6cab8
+
+set $color0 #2b2440
+set $color1 #FE5D78
+set $color2 #EC897E
+set $color3 #5B6089
+set $color4 #8C4F80
+set $color5 #359AA9
+set $color6 #11F3DC
+set $color7 #f6cab8
+set $color8 #ac8d80
+set $color9 #FE5D78
+set $color10 #EC897E
+set $color11 #5B6089
+set $color12 #8C4F80
+set $color13 #359AA9
+set $color14 #11F3DC
+set $color15 #f6cab8
